@@ -1,0 +1,15 @@
+{
+  "name": "informit-citations",
+  "version": "1.0.0",
+  "description": "AGLC4-compliant citation exporter for Informit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Sosnik",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "got": "^11.8.2",
+    "lodash": "^4.17.21"
+  }
+}
